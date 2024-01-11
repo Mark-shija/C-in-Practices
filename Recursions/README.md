@@ -14,4 +14,4 @@
   
     ![EXAMPLE1](https://github.com/Mark-shija/C-in-Practices/blob/main/Recursions/screenshoots/example%201.png?raw=true)
 * In the example above, a conditional if statement acts as a base case i.e when n == 1 evaluates to TRUE the function returns 1. and when if statement evaluates to FALSE the function evokes a recursive function and continue to call itself untill the condition terminate by evaluating to TRUE
-* 
+  # WHAT COULD BE THE OUTPUT???
